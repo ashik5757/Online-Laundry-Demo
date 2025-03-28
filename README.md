@@ -148,8 +148,6 @@ Digital marketing through the app, such as push notifications and in-app promoti
 <img src="https://github.com/user-attachments/assets/61959a4a-584f-4874-a8d7-e1ecaad93e8c" height="500px">
 <img src="https://github.com/user-attachments/assets/eefb2026-365f-433f-aeff-de974190d95f" height="500px">
 <img src="https://github.com/user-attachments/assets/489adb90-7b06-4bcf-8e6b-301e33d01287" height="500px">
-<img src="https://github.com/user-attachments/assets/7a949dcb-a2a1-4020-b79d-bab4c84609a6" height="500px">
-<img src="" height="500px">
 
 </div>
 
@@ -160,9 +158,11 @@ Digital marketing through the app, such as push notifications and in-app promoti
 <div align="center">
 
 ### Other Services
+
+<img src="https://github.com/user-attachments/assets/7a949dcb-a2a1-4020-b79d-bab4c84609a6" height="500px">
 <img src="https://github.com/user-attachments/assets/2953bac2-1eb6-465f-b831-31079b6f0f48" height="500px">
 <img src="https://github.com/user-attachments/assets/40a45a1b-254e-493d-8dd1-1eae0e91bc10" height="500px">
-<img src="" height="500px">
+
 
 </div>
 
